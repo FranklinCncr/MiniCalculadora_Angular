@@ -6,4 +6,4 @@ Aplicacion web con Angular usando interpolacion, binding, clases, variables y bo
 - [x] Node: 14.17.1
 - [x] Bootstrap 5  
 
-![Vista previa] (/src/assets/minicalculadora.jpg)
+![Vista previa](/src/assets/minicalculadora.jpg)
