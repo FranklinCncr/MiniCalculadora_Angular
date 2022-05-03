@@ -1,4 +1,4 @@
--> # MiniCalculadora - Angular <-
+# MiniCalculadora - Angular
 
 Aplicacion web con Angular usando interpolacion, binding, clases, variables y boostrap para agregar formato y estilos.
 
